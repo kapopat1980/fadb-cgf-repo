@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying findings, please cite the manuscript below."
+title: "FADB-CGF: Frequency-Aware Dual-Branch Network with Confidence-Gated Fusion"
+authors:
+  - family-names: "Meva"
+    given-names: "Divyakant"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, Gujarat, India"
+  - family-names: "Popat"
+    given-names: "Kalpesh"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, Gujarat, India"
+date-released: 2026-08-21
+license: MIT
+repository-code: "[Add GitHub URL after publishing]"
+preferred-citation:
+  type: article
+  title: "Train–Test Leakage in a Widely Used Brain Tumor MRI Benchmark: A Quantified Audit and a Rigorous Multi-Seed Evaluation of Frequency-Aware Dual-Branch Fusion"
+  authors:
+    - family-names: "Meva"
+      given-names: "Divyakant"
+    - family-names: "Popat"
+      given-names: "Kalpesh"
+  year: 2026
+  journal: "[Journal name - to be added upon acceptance]"
+  status: "under review"

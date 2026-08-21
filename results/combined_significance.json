@@ -1,0 +1,47 @@
+{
+  "fadb_cgf_gated_vs_efficientnet_baseline": {
+    "pvals": [
+      0.75390625,
+      0.21875,
+      0.1796875,
+      0.0192108154296875
+    ],
+    "fisher_p": 0.06027791360786616
+  },
+  "fadb_cgf_concat_vs_efficientnet_baseline": {
+    "pvals": [
+      0.79052734375,
+      0.21875,
+      1.0,
+      0.01181793212890625
+    ],
+    "fisher_p": 0.13479309275046114
+  },
+  "fadb_cgf_gated_vs_resnet50_baseline": {
+    "pvals": [
+      0.210113525390625,
+      1.0,
+      0.5034446716308594,
+      0.629058837890625
+    ],
+    "fisher_p": 0.7119041124111145
+  },
+  "fadb_cgf_concat_vs_resnet50_baseline": {
+    "pvals": [
+      0.210113525390625,
+      1.0,
+      1.0,
+      0.480682373046875
+    ],
+    "fisher_p": 0.8008384979010088
+  },
+  "fadb_cgf_gated_vs_fadb_cgf_concat": {
+    "pvals": [
+      1.0,
+      1.0,
+      0.34375,
+      1.0
+    ],
+    "fisher_p": 0.9765671542281251
+  }
+}
