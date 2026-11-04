@@ -1,0 +1,51 @@
+filtered_test_index,true,predicted_classes,n_runs
+4,glioma,no tumor,16
+8,glioma,meningioma/no tumor,16
+11,glioma,meningioma,16
+18,glioma,meningioma,16
+30,glioma,meningioma/pituitary,16
+33,glioma,meningioma/no tumor,16
+38,glioma,meningioma/no tumor,16
+49,glioma,no tumor,16
+56,glioma,meningioma,16
+58,glioma,meningioma,16
+66,glioma,meningioma/no tumor,16
+74,glioma,no tumor,16
+78,glioma,meningioma,16
+95,glioma,meningioma/no tumor,16
+97,glioma,meningioma,16
+105,glioma,meningioma/no tumor,16
+115,glioma,meningioma/no tumor,16
+125,glioma,meningioma/no tumor,16
+130,glioma,meningioma/no tumor,16
+141,glioma,meningioma,16
+174,glioma,meningioma/no tumor,16
+180,glioma,meningioma/no tumor,16
+186,glioma,meningioma/no tumor,16
+192,glioma,meningioma,16
+194,glioma,meningioma/no tumor,16
+223,glioma,meningioma/no tumor,16
+231,glioma,meningioma/no tumor,16
+233,glioma,meningioma/no tumor,16
+238,glioma,no tumor,16
+240,glioma,meningioma/no tumor,16
+244,glioma,no tumor,16
+252,glioma,no tumor,16
+257,glioma,meningioma/no tumor,16
+264,glioma,no tumor,16
+274,glioma,meningioma/no tumor,16
+275,glioma,meningioma/no tumor/pituitary,16
+282,glioma,meningioma/no tumor,16
+297,glioma,no tumor,16
+315,glioma,meningioma/no tumor,16
+316,glioma,meningioma/no tumor,16
+318,glioma,meningioma,16
+332,glioma,no tumor,16
+336,glioma,meningioma,16
+343,glioma,meningioma/no tumor/pituitary,16
+348,glioma,meningioma,16
+353,glioma,meningioma,16
+363,glioma,no tumor,16
+365,glioma,no tumor,16
+369,glioma,meningioma/no tumor,16
+390,glioma,meningioma/no tumor,16
